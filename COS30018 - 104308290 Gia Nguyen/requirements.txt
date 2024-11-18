@@ -1,0 +1,12 @@
+numpy
+matplotlib
+mpl_finance
+mplfinance
+pandas
+pandas_datareader
+tensorflow
+yfinance
+sklearn
+scikit-learn
+statsmodels
+pmdarima
